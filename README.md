@@ -26,3 +26,5 @@ Hits and misses are rendered on each board.
 ![Screen Shot 2022-02-14 at 10 48 11 AM](https://user-images.githubusercontent.com/25598690/153927036-c849821c-8732-4c70-a913-d79b9fc7abc3.png)
 
 Once a Player sinks all the ships of the other Player, the game is won.  In its current state, there is no time limit.
+
+If you'd like to play, fork the repo locally and run Play.class.  
